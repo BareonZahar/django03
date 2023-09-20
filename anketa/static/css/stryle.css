@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://cache.desktopnexus.com/thumbseg/2383/2383236-bigthumbnail.jpg");
+    background-size: cover;
+}
+h1{
+   position: relative;
+    text-align: center;
+    color: sandybrown;
+    margin-top: 100px;
+}
+table{
+   position: relative;
+    color: deeppink;
+    font-size: xx-large;
+    margin-left: 200px;
+    margin-top: 50px;
+   text-align: center;
+    background-color: aqua;
+    border-radius: 20px ;
+}
+input{
+    text-align: center;
+    color: darkred;
+}
+input:hover{
+    background-color: lime;
+}
+.int{
+    margin-left: 650px;
+    margin-top: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.int:hover{
+    background-color: green;
+    border-radius: 20px;
+}
+img{
+    background-color: deeppink;
+}
+.row{
+    margin-top: 100px;
+}
+.col-md-3{
+    color: black;
+}

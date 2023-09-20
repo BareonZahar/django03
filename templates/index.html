@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Главная</title>
+    <link rel="stylesheet" href="{% static 'css/stily1.css' %}">
+</head>
+<body>
+    <h2>Выберите форум</h2>
+    <a href="{% url 'forma1' %}">Форма1</a>
+    <br>
+    <a href="{% url 'forma2' %}">Про животных</a>
+    <br>
+    <a href="{% url 'forma3' %}">Форма3</a>
+     <br>
+    <a href="{% url 'upload' %}">Фото</a>
+
+</body>
+</html>

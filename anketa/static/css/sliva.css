@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://cache.desktopnexus.com/thumbseg/2383/2383236-bigthumbnail.jpg");
+    background-size: cover;
+
+}
+
+.card{
+     background-color: rgba(244, 164, 96, 0.57);
+}
+.card-title{
+    text-align: center;
+    background-color: rgba(244, 164, 96, 0.57);
+    color:darkblue;
+}
+.card-text{
+    text-align: justify;
+    font-size: 10px;
+    color: cyan;
+}
+  /*Так вставляются фото из папки img*/
+/*  background-image: url("../img/keit.jpg");*/
